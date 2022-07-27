@@ -44,7 +44,7 @@ this observation may harm the assumption and cause poor performance. Further inv
 The experiments show NRGNN could not perform well on noisy edges. Mean teacher frameworks do not significantly improve the model. Besides, that may
 harm the performance. Reweighting the edges gives certain resistance for the edge noise. To resist more attack, attributes noise should be considered for future works. Finally, this work also shows the node pair similarity for existing node pairs. The results should be considered for the following works.
 
----
+## Reference
 [1] E. Dai, C. Aggarwal, and S. Wang, “NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs,” 2021.
 
 [2] A. Tarvainen and H. Valpola, “Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results,” 2018.
