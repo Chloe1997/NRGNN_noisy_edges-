@@ -40,7 +40,7 @@ similarity of all given edges.
 The experiment shows the node features are quite different and less than 10% given edges have high confidence in terms of node pair similarities. In NRGNN,
 this observation may harm the assumption and cause poor performance. Further investigation should be done in the futureworks.
 
-
+## Conclusion
 The experiments show NRGNN could not perform well on noisy edges. Mean teacher frameworks do not significantly improve the model. Besides, that may
 harm the performance. Reweighting the edges gives certain resistance for the edge noise. To resist more attack, attributes noise should be considered for future works. Finally, this work also shows the node pair similarity for existing node pairs. The results should be considered for the following works.
 
