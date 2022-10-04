@@ -50,3 +50,11 @@ harm the performance. Reweighting the edges gives certain resistance for the edg
 [2] A. Tarvainen and H. Valpola, “Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results,” 2018.
 
 [3] E. Dai, W. jIN, H. Liu, and S. Wang, “Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels.” Jan. 01, 2022
+
+
+@article{dai2021nrgnn,
+  title={NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs},
+  author={Dai, Enyan and Aggarwal, Charu and Wang, Suhang},
+  journal={SIGKDD},
+  year={2021}
+}
